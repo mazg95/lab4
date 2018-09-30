@@ -1,0 +1,24 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "lab4",
+  "main": "inciso4.js",
+  "dependencies": {
+    "finalhandler": "^1.1.1",
+    "router": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazg95/lab4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazg95/lab4/issues"
+  },
+  "homepage": "https://github.com/mazg95/lab4#readme"
+}
